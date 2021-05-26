@@ -1,4 +1,4 @@
-package application;
+package application.model;
 
 public class QuestModel {
 	private String intro;
