@@ -27,7 +27,7 @@
       <Label fx:id="lblB" layoutX="68.0" layoutY="374.0" prefHeight="40.0" prefWidth="681.0" text="start" AnchorPane.bottomAnchor="118.0" AnchorPane.leftAnchor="68.0" />
       <Label fx:id="lblC" layoutX="68.0" layoutY="279.0" prefHeight="50.0" prefWidth="681.0" text="start" AnchorPane.bottomAnchor="203.0" AnchorPane.leftAnchor="68.0" />
       <Label fx:id="lblD" layoutX="68.0" layoutY="473.0" prefHeight="40.0" prefWidth="681.0" text="start" AnchorPane.bottomAnchor="19.0" AnchorPane.leftAnchor="68.0" />
-      <Label fx:id="lblQuestN" layoutX="679.0" layoutY="89.0" prefHeight="40.0" prefWidth="107.0" text="test" textFill="#250202" />
+      <Label fx:id="lblQuestN" layoutX="679.0" layoutY="89.0" prefHeight="40.0" prefWidth="107.0" textFill="#250202" />
    </children>
    
 </AnchorPane>

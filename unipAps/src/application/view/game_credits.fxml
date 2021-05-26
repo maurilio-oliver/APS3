@@ -15,9 +15,9 @@
          </image>
       </ImageView>
       <Button fx:id="btn" layoutX="731.0" layoutY="762.0" mnemonicParsing="false" onAction="#test" text="home" />
-      <Label layoutX="73.0" layoutY="203.0" text="Thais Laiane da Silva N659432" textFill="WHITE">
+      <Label layoutX="79.0" layoutY="214.0" prefHeight="91.0" prefWidth="489.0" text="Thais Laiane da Silva N659432" textFill="WHITE">
          <font>
-            <Font size="4304.0" />
+            <Font size="30.0" />
          </font></Label>
       <Label layoutX="73.0" layoutY="388.0" text="Miguel Campelo Pereira - N5680E3" textFill="WHITE">
          <font>
